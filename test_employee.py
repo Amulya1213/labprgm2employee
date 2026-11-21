@@ -1,4 +1,4 @@
-from employee import employee_info
+from lab6 import employee_info
 
 def test_employee_details():
     result = employee_info("Amulya", "101", "BCA", "50000")
